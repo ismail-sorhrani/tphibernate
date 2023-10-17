@@ -9,6 +9,8 @@ Ce projet pour gérer une liste de produits. Les fonctionnalités principales so
 ### les produits dont le prix > 100: 
 ![image](https://github.com/ismail-sorhrani/tphibernate/assets/125312216/75ebd5ca-58c8-4fc1-b55d-21c897775f5a)
 # Exercice 3
+![image](https://github.com/ismail-sorhrani/tphibernate/assets/125312216/98058e15-586e-42f1-a364-c14696d6a0f5)
+
 
 
 
