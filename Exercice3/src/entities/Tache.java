@@ -16,7 +16,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 @Entity
 public class Tache {

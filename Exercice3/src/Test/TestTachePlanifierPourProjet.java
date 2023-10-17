@@ -9,7 +9,7 @@ import service.ProjetService;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 public class TestTachePlanifierPourProjet {
     public static void main(String[] args) {

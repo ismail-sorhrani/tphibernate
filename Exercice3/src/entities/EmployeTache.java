@@ -17,7 +17,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 @Entity
 public class EmployeTache {

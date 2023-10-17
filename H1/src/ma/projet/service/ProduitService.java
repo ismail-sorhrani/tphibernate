@@ -16,7 +16,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author HP
+ * @author Ismail
  */
 public class ProduitService implements IDao<Produit>{
     

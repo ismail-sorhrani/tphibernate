@@ -18,7 +18,7 @@ import util.HibernateUtil;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 public class EmployeService implements IDao<Employe> {
 

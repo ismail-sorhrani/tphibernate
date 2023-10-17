@@ -16,7 +16,7 @@ import util.HibernateUtil;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 public class ProjetService implements IDao<Projet> {
 

@@ -18,7 +18,7 @@ import org.hibernate.annotations.Generated;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 @Entity
 public class Employe {

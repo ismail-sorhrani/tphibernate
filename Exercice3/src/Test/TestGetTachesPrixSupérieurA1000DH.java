@@ -9,7 +9,7 @@ import service.TacheService;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 public class TestGetTachesPrixSupérieurA1000DH {
     public static void main(String[] args) {

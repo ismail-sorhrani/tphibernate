@@ -11,7 +11,7 @@ import javax.persistence.Embeddable;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 @Embeddable
 public class EmployeTachePk implements  Serializable{

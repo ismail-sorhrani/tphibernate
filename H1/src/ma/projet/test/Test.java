@@ -12,14 +12,14 @@ import ma.projet.service.ProduitService;
 
 /**
  *
- * @author HP
+ * @author Ismail
  */
 public class Test {
     
     public static void main(String[] args) {
      
         ProduitService ps = new ProduitService();
-        int year = 2023 - 1900;
+        int year = 2023 - 2000;
         
         // creation des produit
         Produit produit_1 = new Produit("sac", "r1", new Date(year, 3, 12), 200, "dest1");

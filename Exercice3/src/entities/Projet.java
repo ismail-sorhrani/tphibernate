@@ -18,7 +18,7 @@ import org.hibernate.annotations.ManyToAny;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 @Entity
 public class Projet {

@@ -10,7 +10,7 @@ import javax.persistence.Embeddable;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 @Embeddable
 public class LigneCommandeProduitPk implements Serializable{

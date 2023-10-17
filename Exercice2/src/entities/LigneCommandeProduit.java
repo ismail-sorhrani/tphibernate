@@ -13,7 +13,7 @@ import javax.persistence.ManyToOne;
 
 /**
  *
- * @author PC
+ * @author Ismail
  */
 @Entity
 
